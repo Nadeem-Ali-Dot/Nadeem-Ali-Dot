@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm a .NET Full Stack Developer
 
-<!--
-**Nadeem-Ali-Dot/Nadeem-Ali-Dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building scalable, secure, and high-performance web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Backend:** C#, ASP.NET Core, Web API, MVC  
+- **Frontend:** HTML, CSS, JavaScript, Angular / React  
+- **Database:** SQL Server  
+- **Tools:** Git, GitHub, Visual Studio, VS Code  
+
+---
+
+## 👨‍💻 What I Do
+
+- Design & develop full stack web applications  
+- Build RESTful APIs with ASP.NET Core  
+- Work with modern frontend frameworks  
+- Write clean, maintainable, and efficient code  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced ASP.NET Core  
+- Microservices & Cloud concepts  
+- Performance optimization  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: your-link-here
+
+---
+
+⭐️ *Always learning. Always coding.*
