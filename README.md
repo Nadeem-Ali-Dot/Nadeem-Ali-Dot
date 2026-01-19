@@ -6,8 +6,8 @@
 
 ## 🚀 Tech Stack
 
-- **Backend:** C#, ASP.NET Core, Web API, MVC  
-- **Frontend:** HTML, CSS, JavaScript, Angular / React  
+- **Backend:** C#, ASP.NET Core,ASP.NET MVC,Ado.NET, Web API, MVC  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap,Tailwind Css, React  
 - **Database:** SQL Server  
 - **Tools:** Git, GitHub, Visual Studio, VS Code  
 
@@ -32,7 +32,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+
 - LinkedIn: your-link-here
 
 ---
