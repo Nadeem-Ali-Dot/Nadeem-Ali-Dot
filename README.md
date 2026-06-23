@@ -26,7 +26,8 @@
 
 - Advanced ASP.NET Core  
 - Microservices & Cloud concepts  
-- Performance optimization  
+- Performance optimization
+- Angular 19
 
 ---
 
