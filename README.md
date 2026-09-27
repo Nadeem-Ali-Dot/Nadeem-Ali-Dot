@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack
 
 - **Backend:** C#, ASP.NET Core,ASP.NET MVC,Ado.NET, Web API, MVC  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap,Tailwind Css, React  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap,Tailwind Css, React.Js, Angular 
 - **Database:** SQL Server  
 - **Tools:** Git, GitHub, Visual Studio, VS Code  
 
@@ -27,7 +27,8 @@
 - Advanced ASP.NET Core  
 - Microservices & Cloud concepts  
 - Performance optimization
-- Angular 19
+- Angular
+- Design Pattern
 
 ---
 
