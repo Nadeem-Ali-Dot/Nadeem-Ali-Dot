@@ -35,7 +35,7 @@
 ## 📫 Connect With Me
 
 
-- LinkedIn: your-link-here
+- LinkedIn: Https://linkedin.com/in/nadeem-ali-514639226
 
 ---
 
